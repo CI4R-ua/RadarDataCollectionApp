@@ -1,0 +1,85 @@
+
+Connecting to the Kinect service, please wait...
+Recording in progress...
+Recording has stopped.
+-----------------------------------------------------
+
+File: D:\Data_testing\02000031_1577392883.xef
+
+-----------------------------------------------------
+File Metadata
+-----------------------------------------------------
+
+Public Metadata (6)
+ _KStudioVersion = 2.0.1410.19000
+ _KinectProductCode = GIZA
+ _KinectSensorBasicHwVersion = 257
+ _KinectSensorSerialNumber = 000119364847
+ _KinectSensorVersion = 4.0.3916.0
+ _KinectServiceVersion = 2.2.1905.16000
+
+Personal Metadata (0)
+
+-----------------------------------------------------
+Streams (8)
+-----------------------------------------------------
+
+Nui Uncompressed Color
+  Data Type ID: 2ba0d67d-be11-4534-9444-3fb21ae0f08b
+  Semantic ID: d41013d2-47cb-4957-bb5f-8bb4f71a9d73
+  Events (741)
+  Public Metadata (0)
+  Personal Metadata (0)
+
+Nui Depth
+  Data Type ID: 0a3914d6-3b16-11e1-aac3-001e4fd58c0f
+  Semantic ID: d41013d2-47cb-4957-bb5f-8bb4f71a9d73
+  Events (837)
+  Public Metadata (0)
+  Personal Metadata (0)
+
+Nui IR
+  Data Type ID: 0a3914d7-3b16-11e1-aac3-001e4fd58c0f
+  Semantic ID: d41013d2-47cb-4957-bb5f-8bb4f71a9d73
+  Events (837)
+  Public Metadata (0)
+  Personal Metadata (0)
+
+Nui Body Frame
+  Data Type ID: a0c45179-5168-4875-a75c-f8f1760f637c
+  Semantic ID: d41013d2-47cb-4957-bb5f-8bb4f71a9d73
+  Events (837)
+  Public Metadata (0)
+  Personal Metadata (0)
+
+Nui Color Camera Settings
+  Data Type ID: 70b325ba-5819-4c8b-8037-2ece5cbb7467
+  Semantic ID: d41013d2-47cb-4957-bb5f-8bb4f71a9d73
+  Events (741)
+  Public Metadata (0)
+  Personal Metadata (0)
+
+Nui Calibration Data
+  Data Type ID: 8f78ca9c-c1c0-4673-8e51-36484f7e7492
+  Semantic ID: d41013d2-47cb-4957-bb5f-8bb4f71a9d73
+  Events (1)
+  Public Metadata (0)
+  Personal Metadata (0)
+
+Nui Sensor Telemetry
+  Data Type ID: 0a3914e9-3b16-11e1-aac3-001e4fd58c0f
+  Semantic ID: d41013d2-47cb-4957-bb5f-8bb4f71a9d73
+  Events (128)
+  Public Metadata (0)
+  Personal Metadata (0)
+
+Nui Opaque Data
+  Data Type ID: f5280e6e-229c-49ec-a8d2-b06f7ad64311
+  Semantic ID: d41013d2-47cb-4957-bb5f-8bb4f71a9d73
+  Events (837)
+  Public Metadata (0)
+  Personal Metadata (0)
+-----------------------------------------------------
+Done!
+
+>
