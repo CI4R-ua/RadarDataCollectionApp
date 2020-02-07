@@ -6,8 +6,6 @@ This application aims to provide a functionality to record data from multiple se
 ## Data collecting process
 Each radar comes with its own software for collecting the data. Below, explanation of how the application manages to connect with the radar and how it collects the data is provided. 
 
-to collect data are explained. 
-
 
 ### Ancertok
 
