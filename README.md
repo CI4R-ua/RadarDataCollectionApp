@@ -3,7 +3,10 @@
 This application aims to provide a functionality to record data from multiple sensors at same time via a single click.
 
 
-Each radar has its own software for collecting the data. 
+# Data collecting process
+Each radar comes with its own software for collecting the data. Below, how the application manages to connect with the radar, how it collects the data is explained. 
+
+to collect data are explained. 
 
 
 ## Ancertok
