@@ -23,7 +23,13 @@ Progammatically: Records the data via command line.
 
 [ModuleConnector]( https://www.xethru.com/community/resources/module-connector-windows.78/), a DLL, is used to configure the Xethru modules (radar) and collect the data. 
 
-Matlab script "X4record2.m" accesses ModuleConnector and connects 
+Matlab script "C:\Users\RSL\Documents\Xethru\lib64\X4record2.m" accesses ModuleConnector and configures the radar. 
 
 
-Programmatically: 
+Programmatically: Executable, "X4record.exe", is provided with neccessary arguments and is then run. Initially, the data is dumped into another location but is moved to the right directory when the data becomes available. (More info in the code). 
+
+## 77ghz
+
+mmWave Studio software is used to configure the radar and collect the data from 77ghz radar. Since, mmWave Studio can only collect data for one radar at a time, each of the 77ghz radar has to have its own software on different computer.
+
+
