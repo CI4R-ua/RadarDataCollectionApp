@@ -37,6 +37,6 @@ mmWave Studio software is used to configure the radar and collect the data from 
 
 Programmatically : The client-server model is used here to connect two computers. Client makes the connection with the server and once the connection is established, server asks the client to start collecting data for the 77ghz radar. The client code uses AutoIt scripting language to simulate the actual process of collecting data. 
 
-Client code resides here => "C:\Users\Home\Desktop\Network_test\Windowsapplicationform1" 
+Client code (on the other computer) resides here => "C:\Users\Home\Desktop\Network_test\Windowsapplicationform1" 
 
 
